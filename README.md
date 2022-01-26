@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jan
-- 👀 I’m interested in mobile Development with Flutter
+- 👀 I’m interested in mobile Development using Flutter
 - 📫 How to reach me: Jan-Sahrhage@gmx.de
 
 <!---
